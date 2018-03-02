@@ -1,2 +1,2 @@
 # Chess
-IDE based Chess game (CMPSC 121)
+IDE based Chess game
